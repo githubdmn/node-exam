@@ -20,7 +20,6 @@ http
             console.error(exception);
             res.end(exception);
         }
-
     })
     .listen(PORT, () => {
         console.log(`Listening on port ${PORT}`);
