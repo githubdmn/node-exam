@@ -12,7 +12,7 @@ http
             const urlPath = parsedUrl.pathname;
             const trimmedPath = urlPath.replace(/^\/+|\/+$/g, '');
             if (trimmedPath === 'codility-demo') {
-
+                task01();
             } else {
                 throw 'Path is not correct';
             }
