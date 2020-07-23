@@ -1,0 +1,16 @@
+{
+  "name": "codility-demo",
+  "version": "1.0.0",
+  "description": "Codility Demo Test",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "demo",
+    "test"
+  ],
+  "author": "Damjan Ivanovic",
+  "license": "ISC"
+}
